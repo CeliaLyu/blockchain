@@ -1,4 +1,4 @@
-# Rock Paper Scissors
+# A Survey on the Fundamentals, the Applications and the Security of Mainstream Cross-Chain Communication Protocols
 
 **Xiaoxi Celia Lyu, Junyu Jason Liu, Wangkai Jin**
 
