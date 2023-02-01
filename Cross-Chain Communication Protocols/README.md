@@ -24,18 +24,29 @@ Link to our presentation of this group project: https://youtu.be/S8fYaZBwKrE
 ## References
 
 [1] C. Sguanci, R. Spatafora, and A. M. Vergani, “Layer 2 blockchain scaling: a survey,” 2021.
+
 [2] R. Belchior, A. Vasconcelos, S. Guerreiro, and M. Correia, “A survey on blockchain interoperability: Past, present, and future trends,” 2020.
+
 [3] P. Robinson, “Survey of crosschain communications protocols,” 2020.
+
 [4] T. Nolan, “Alt chains and atomic transfers,” May 2013.
+
 [5] J. Chow, “BTC Relay Documentation,” September 2016.
+
 [6] Chainlink, “Introducing the cross-chain interoperability protocol (CCIP),” Aug 2021.
+
 [7] R. Dasari, E. Surmeli, K. Yeung, and K. Alfaro, “Cross-Consensus Message Format (XCM),” Sep 2022.
+
 [8] H. Sun, H. Mao, X. Bai, Z. Chen, K. Hu, and W. Yu, “Multi-blockchain model for central bank digital currency,” in 2017 18th International Conference on Parallel and Distributed Computing, Applications and Technologies (PDCAT), pp. 360–367, 2017.
+
 [9] A. Sardon, T. Hardjono, and M. McBride, “Blockchain Gateways: Use-Cases,” Internet-Draft draft-sardon-blockchain-gateways-usecases-03, Internet Engineering Task Force, Apr. 2022. Work in Progress.
+
 [10] R. Belchior, B. Putz, G. Pernul, M. Correia, A. Vasconcelos, and S. Guerreiro, “Ssibac: Self-sovereign identity based access control,” in 2020 IEEE 19th Interna- tional Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), pp. 1935–1943, 2020.
+
 [11] F. Tramèr, D. Boneh, and K. Paterson, “Remote Side-Channel attacks on anony- mous transactions,” in 29th USENIX Security Symposium (USENIX Security 20), pp. 2739–2756, USENIX Association, Aug. 2020.
+
 [12] Z. Nehaï, F. Bobot, S. Tucci-Piergiovanni, C. Delporte-Gallet, and H. Faucon- nier, “A tla+ formal proof of a cross-chain swap,” in 23rd International Conference on Distributed Computing and Networking, ICDCN 2022, (New York, NY, USA), p. 148–159, Association for Computing Machinery, 2022.
+
 [13] Y. Manevich and A. Akavia, “Cross chain atomic swaps in the absence of time via attribute verifiable timed commitments,” in 2022 IEEE 7th European Symposium on Security and Privacy (EuroSP), pp. 606–625, 2022.
+
 [14] Y. Li, J. Weng, M. Li, W. Wu, J. Weng, J.-N. Liu, and S. Hu, “Zerocross: A sidechain- based privacy-preserving cross-chain solution for monero,” Journal of Parallel and Distributed Computing, vol. 169, pp. 301–316, 2022.
-
-
