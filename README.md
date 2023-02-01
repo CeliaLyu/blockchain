@@ -8,6 +8,6 @@ Final project for CS590 Foundations of Blockchains, Duke University, Fall 2022. 
 
 **Documents Description**
 
-- `[report]SoK.pdf`: The PDF version of our group report, titled "Survey on the Fundamentals, the Applications and the Security of Mainstream Cross-Chain Communication Protocols". 
+- `Cross-Chain Communication Protocols`: It contains `[report]SoK.pdf` which is a PDF version of our group report titled.  
 
-- `RockPaperScissors_SmartContract_Solidity`: It contains `README.md`, `RockPaperScissors.sol`, and a presentation video of how this smart contract works in Etherum. 
+- `RockPaperScissors_SmartContract_Solidity`: It contains `README.md` and `RockPaperScissors.sol` which is the codes of this smart contract in Solidity. 
