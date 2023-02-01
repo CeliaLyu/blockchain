@@ -12,7 +12,7 @@ The aim for this task is to create a Rock Paper Scissors contract in solidity an
 - Both players must commit to their choice (by making a fist), and then both players must reveal their choice (by opening their fist). 
 I will built in a way that guarantees the fair exchange of the answers and allows the winner to collect their winnings.
 
-**Documents Description**
+## Documents Description
 
 - `RockPaperScissors.sol`: The codes of this smart contract in Solidity
 
