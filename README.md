@@ -1,6 +1,6 @@
 ### Blockchain Project
 
-**Xiaoxi Celia Lyu， Weixin He， Ziyan Chen， Zhan Shi**
+**Xiaoxi Celia Lyu， Junyu Jason Liu， Wangkai Jin**
 
 Final project for CS590 Foundations of Blockchains, Duke University, Fall 2022. All authors contributed equally to the Systemization of Knowledge (SoK) Paper, and Celia worked on the Rock Paper Scissors Smart Contract independently. 
 
